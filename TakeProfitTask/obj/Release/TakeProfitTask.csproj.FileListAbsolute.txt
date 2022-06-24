@@ -1,0 +1,7 @@
+D:\Nastya\тестовые задания для резюме\TakeProfitTask\TakeProfitTask\bin\Release\TakeProfitTask.exe.config
+D:\Nastya\тестовые задания для резюме\TakeProfitTask\TakeProfitTask\bin\Release\TakeProfitTask.exe
+D:\Nastya\тестовые задания для резюме\TakeProfitTask\TakeProfitTask\bin\Release\TakeProfitTask.pdb
+D:\Nastya\тестовые задания для резюме\TakeProfitTask\TakeProfitTask\obj\Release\TakeProfitTask.csprojAssemblyReference.cache
+D:\Nastya\тестовые задания для резюме\TakeProfitTask\TakeProfitTask\obj\Release\TakeProfitTask.csproj.CoreCompileInputs.cache
+D:\Nastya\тестовые задания для резюме\TakeProfitTask\TakeProfitTask\obj\Release\TakeProfitTask.exe
+D:\Nastya\тестовые задания для резюме\TakeProfitTask\TakeProfitTask\obj\Release\TakeProfitTask.pdb
